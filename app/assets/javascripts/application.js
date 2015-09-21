@@ -16,6 +16,5 @@
 //= require bootstrap
 //= require theme
 //= require theme.init
-//= require custom
-//= require_circle-flip-slideshow/js/jquery.flipshow.js
+//= require owl.carousel.min
 //= require_tree .

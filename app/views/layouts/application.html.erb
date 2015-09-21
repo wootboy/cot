@@ -2,13 +2,17 @@
 <html>
 <head>
   <title>Cot</title>
-<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <%= stylesheet_link_tag    'application', media: 'all'%>
   <%= javascript_include_tag 'application'%>
   <%= csrf_meta_tags %>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
 </head>
-<body class="one-page" data-target=".single-menu" data-spy="scroll" data-offset="200"> <%= render 'layouts/header' %>
+<body class="one-page" data-target=".single-menu" data-spy="scroll" data-offset="200">
+
+ <%= render 'layouts/header' %>
 <%= yield %>
 
  <%= render 'layouts/footer' %>
