@@ -14,4 +14,8 @@
 //= require jquery_ujs
 //= require bootstrap-sprockets
 //= require bootstrap
+//= require theme
+//= require theme.init
+//= require custom
+//= require_circle-flip-slideshow/js/jquery.flipshow.js
 //= require_tree .
