@@ -67,3 +67,4 @@ Version: 		3.7.0
 	}
 
 }).apply(this, [jQuery]);
+

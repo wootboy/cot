@@ -11,10 +11,12 @@
 // about supported directives.
 //
 //= require jquery
+//= require view.home
 //= require jquery_ujs
 //= require bootstrap-sprockets
 //= require bootstrap
 //= require theme
 //= require theme.init
-//= require owl.carousel.min
+
+//= require view.home
 //= require_tree .
