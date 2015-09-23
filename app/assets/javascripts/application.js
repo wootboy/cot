@@ -17,6 +17,6 @@
 //= require bootstrap
 //= require theme
 //= require theme.init
-//= require jquery.gmap
+
 //= require view.home
 //= require_tree .
